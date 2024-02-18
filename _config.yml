@@ -3,8 +3,9 @@ logo: "/images/jwc.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A Data Analyst with a unique mix of knowledge in contemporary art and economics.
   <br><br>
-  ddddd description 
   <br><br>
   <a href="https://www.linkedin.com/in/jinu5452/">View My LinkedIn Profile</a> 
-  
+    <br>
+  <a href="https://github.com/jinu5452">GitHub Repo</a> 
+  <br>
 theme: jekyll-theme-minimal
